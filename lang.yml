@@ -36,4 +36,4 @@ UNBAN_COMMAND_NOT_MUTED: '§b§lPvPCore §8:: §cОшибка, игрока §7%
 # =======================
 #       Чвт
 # =======================
-DONATE_CHAT_FORMAT: '§b§lPvPCore §8:: §fИспользуйте - §b/%chat% <сообщение>'
+DONATE_CHAT_FORMAT: '§b§lPvPCore §8:: §fИспользуйте - §b%chat% <сообщение>'
