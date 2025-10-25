@@ -1,5 +1,8 @@
 NO_PERM: '§b§lPvPCore §8:: §cОшибка, у Вас недостаточно прав!'
 
+# =======================
+#         Общее
+# =======================
 CLEAR_SUCCESS_RESET: '§b§lPvPCore §8:: §fВы были полностью очищены от вещей и эффектов!'
 DAY_SUCCESS_SET_TIME: '§b§lPvPCore §8:: §fВ мире §e%world% §fбыло установено §6дневное §fвремя суток'
 EXT_MESSAGE: '§b§lPvPCore §8:: §fВы §aуспешно §fпотушили себя!'
@@ -10,3 +13,7 @@ NIGHT_SUCCESS_SET_TIME: '§b§lPvPCore §8:: §fВ мире §e%world% §fбыл
 GOD_MESSAGE: '§b§lPvPCore §8:: §fРежим бессмертия: %god%'
 VANISH_MESSAGE: '§b§lPvPCore §8:: §fРежим невидимости: %vanish%'
 BACKWARD_ERROR_NOT_LOCATION: '§b§lPvPCore §8:: §cОшибка, у Вас нет предыдущей точки телепортации!'
+
+# =======================
+#       Блокировки
+# =======================
