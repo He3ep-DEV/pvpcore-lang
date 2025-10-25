@@ -1,4 +1,5 @@
 NO_PERM: '§b§lPvPCore §8:: §cОшибка, у Вас недостаточно прав!'
+OFFLINE_PLAYER: '§b§lPvPCore §8:: §cОшибка, игрок рание никогда не играл на сервере или оффлайн'
 
 # =======================
 #        Essentials
@@ -17,3 +18,17 @@ BACKWARD_ERROR_NOT_LOCATION: '§b§lPvPCore §8:: §cОшибка, у Вас н�
 # =======================
 #       Блокировки
 # =======================
+BAN_COMMAND_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/ban <ник> <причина>'
+TEMPBAN_COMMAND_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/tempban <ник> <время/-e> <причина>'
+BAN_SUCCESS_MESSAGE: '§b§lPvPCore §8:: §fВы успешно забанили §7%player% §fнавсегда с причиной: §e%reason%'
+TEMPBAN_SUCCES_MESSAGE: '§b§lPvPCore §8:: §fВы успешно забанили §7%player% §fс причиной: §e%reason% §fна %time%'
+MUTE_COMMAND_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/mute <ник> <причина>'
+TEMPMUTE_COMMAND_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/mute <ник> <время/-e> <причина>'
+MUTE_SUCCES_MESSAGE: '§b§lPvPCore §8:: §fВы успешно замутили §7%player% §f навсегда с причиной: §e%reason%'
+TEMPMUTE_SUCCES_MESSAGE: '§b§lPvPCore §8:: §fВы успешно замутили §7%player% §fс причиной: §e%reason% §fна %time%'
+UNMUTE_COMMAND_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/unmute <ник>'
+UNMUTE_COMMAND_SUCCESS: '§b§lPvPCore §8:: §fВы успешно размутили §7%player%'
+UNMUTE_COMMAND_NOT_MUTED: '§b§lPvPCore §8:: §cОшибка, игрока §7%player% §cне замучен'
+UNBAN_COMMAND_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/unban <ник>'
+UNBAN_COMMAND_SUCCESS: '§b§lPvPCore §8:: §fВы успешно разбанили §7%player%'
+UNBAN_COMMAND_NOT_MUTED: '§b§lPvPCore §8:: §cОшибка, игрока §7%player% §cне забанен'
