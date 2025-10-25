@@ -5,3 +5,4 @@ DAY_SUCCESS_SET_TIME: '§b§lPvPCore §8:: §fВ мире §e%world% §fбыло
 EXT_MESSAGE: '§b§lPvPCore §8:: §fВы §aуспешно §fпотушили себя!'
 FEED_MESSAGE: '§b§lPvPCore §8:: §fВы §aуспешно §fнакормили себя!'
 FLY_MESSAGE: '§b§lPvPCore §8:: §fРазрешение на полёт: %fly%'
+HEAL_MESSAGE: '§d§lPlazmix §8:: §fВаше здоровье §aуспешно §fвосстановлено!'
