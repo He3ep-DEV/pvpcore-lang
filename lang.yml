@@ -4,3 +4,4 @@ CLEAR_SUCCESS_RESET: '§b§lPvPCore §8:: §fВы были полностью о
 DAY_SUCCESS_SET_TIME: '§b§lPvPCore §8:: §fВ мире §e%world% §fбыло установено §6дневное §fвремя суток'
 EXT_MESSAGE: '§b§lPvPCore §8:: §fВы §aуспешно §fпотушили себя!'
 FEED_MESSAGE: '§b§lPvPCore §8:: §fВы §aуспешно §fнакормили себя!'
+FLY_MESSAGE: '§b§lPvPCore §8:: §fРазрешение на полёт: %fly%'
