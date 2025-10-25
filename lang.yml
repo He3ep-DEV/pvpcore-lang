@@ -1,4 +1,5 @@
 NO_PERM: '§b§lPvPCore §8:: §cОшибка, у Вас недостаточно прав!'
+ONLY_PLAYER: '§b§lPvPCore §8:: §cОшибка, команда только для игрока!'
 OFFLINE_PLAYER: '§b§lPvPCore §8:: §cОшибка, игрок рание никогда не играл на сервере или оффлайн'
 
 # =======================
@@ -32,3 +33,7 @@ UNMUTE_COMMAND_NOT_MUTED: '§b§lPvPCore §8:: §cОшибка, игрока §7
 UNBAN_COMMAND_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/unban <ник>'
 UNBAN_COMMAND_SUCCESS: '§b§lPvPCore §8:: §fВы успешно разбанили §7%player%'
 UNBAN_COMMAND_NOT_MUTED: '§b§lPvPCore §8:: §cОшибка, игрока §7%player% §cне забанен'
+# =======================
+#       Чвт
+# =======================
+STAFF_CHAT_FORMAT: '§b§lPvPCore §8:: §fИспользуйте - §b/staffchat <сообщение>'
