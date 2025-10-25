@@ -8,3 +8,4 @@ FLY_MESSAGE: '§b§lPvPCore §8:: §fРазрешение на полёт: %fly%
 HEAL_MESSAGE: '§d§lPlazmix §8:: §fВаше здоровье §aуспешно §fвосстановлено!'
 NIGHT_SUCCESS_SET_TIME: '§d§lPlazmix §8:: §fВ мире §e%world% §fбыло установено §9ночное §fвремя суток'
 GOD_MESSAGE: '§b§lPvPCore §8:: §fРежим бессмертия: %god%'
+VANISH_MESSAGE: '§b§lPvPCore §8:: §fРежим невидимости: %vanish%'
