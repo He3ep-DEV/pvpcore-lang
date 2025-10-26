@@ -45,3 +45,9 @@ YOURSELF_REPORT: '§b§lPvPCore §8:: §cОшибка, Вы не можете ж
 REPORT_ALREADY_ACTIVE: '§b§lPvPCore §8:: §cОшибка, Вы уже жаловались на данного игрока!'
 SUCCESS_REPORT: '§b§lPvPCore §8:: §fВы успешно отправили жалобу на игрока §e%player%'
 STAFF_MESSAGE: '§b§lPvPCore §8:: §fНа игрока %rank% %player% §fбыла подана новая жалоба! §7(%count%)'
+# =======================
+#       Freeze
+# =======================
+FREEZE_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/%cmd% <ник>'
+FREEZE_SUCCESS: '§b§lPvPCore §8:: §fИгрок §e%player% §fуспешно заморожен!'
+UNFREEZE_SUCCESS: '§b§lPvPCore §8:: §fИгрок §e%player% §fуспешно разморожен!'
