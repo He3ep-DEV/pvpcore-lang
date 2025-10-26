@@ -44,4 +44,4 @@ REPORT_USAGE_COMMAND: '§b§lPvPCore §8:: §fИспользуйте - §b/repor
 YOURSELF_REPORT: '§b§lPvPCore §8:: §cОшибка, Вы не можете жаловаться сами на себя!'
 REPORT_ALREADY_ACTIVE: '§b§lPvPCore §8:: §cОшибка, Вы уже жаловались на данного игрока!'
 SUCCESS_REPORT: '§b§lPvPCore §8:: §fВы успешно отправили жалобу на игрока §e%player%'
-STAFF_MESSAGE: '§b§lPvPCore §8:: §fНа игрока %rank% %player% была подана новая жалоба! (%count%)'
+STAFF_MESSAGE: '§b§lPvPCore §8:: §fНа игрока %rank% %player% §fбыла подана новая жалоба! (%count%)'
