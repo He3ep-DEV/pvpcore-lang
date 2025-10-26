@@ -1,7 +1,6 @@
 NO_PERM: '§b§lPvPCore §8:: §cОшибка, у Вас недостаточно прав!'
 ONLY_PLAYER: '§b§lPvPCore §8:: §cОшибка, команда только для игрока!'
 OFFLINE_PLAYER: '§b§lPvPCore §8:: §cОшибка, игрок рание никогда не играл на сервере или оффлайн'
-
 # =======================
 #        Essentials
 # =======================
@@ -15,7 +14,6 @@ NIGHT_SUCCESS_SET_TIME: '§b§lPvPCore §8:: §fВ мире §e%world% §fбыл
 GOD_MESSAGE: '§b§lPvPCore §8:: §fРежим бессмертия: %god%'
 VANISH_MESSAGE: '§b§lPvPCore §8:: §fРежим невидимости: %vanish%'
 BACKWARD_ERROR_NOT_LOCATION: '§b§lPvPCore §8:: §cОшибка, у Вас нет предыдущей точки телепортации!'
-
 # =======================
 #       Блокировки
 # =======================
@@ -48,7 +46,6 @@ STAFF_MESSAGE: '§b§lPvPCore §8:: §fНа игрока %rank% %player% §fбы
 # =======================
 #       Freeze
 # =======================
-
 FREEZE_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/%cmd% <ник>'
 FREEZE_SUCCESS: '§b§lPvPCore §8:: §fИгрок §e%player% §fуспешно заморожен!'
 UNFREEZE_SUCCESS: '§b§lPvPCore §8:: §fИгрок §e%player% §fуспешно разморожен!'
