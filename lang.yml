@@ -43,5 +43,5 @@ DONATE_CHAT_FORMAT: '§b§lPvPCore §8:: §fИспользуйте - §b%chat% <
 REPORT_USAGE_COMMAND: '§b§lPvPCore §8:: §fИспользуйте - §b/report <ник> <причина>'
 YOURSELF_REPORT: '§b§lЖалобы §8:: §cОшибка, Вы не можете жаловаться сами на себя!'
 REPORT_ALREADY_ACTIVE: '§b§lЖалобы §8:: §cОшибка, Вы уже жаловались на данного игрока!'
-SUCCESS_REPORT: '§b§lЖалобы §8:: §fВы успешно отправили жалобу на игрока %player%'
+SUCCESS_REPORT: '§b§lЖалобы §8:: §fВы успешно отправили жалобу на игрока §e%player%'
 
