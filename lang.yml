@@ -4,6 +4,11 @@ OFFLINE_PLAYER: '§b§lPvPCore §8:: §cОшибка, игрок рание ни
 # =======================
 #        Essentials
 # =======================
+GAMEMODE_MODE_NONE: '§b§lPvPCore §8:: §cОшибка, режим не указан!'
+GAMEMODE_MODE_ERROR: '§b§lPvPCore §8:: §cОшибка, Неверно указан тип режима: %mode%'
+GAMEMODE_SUCCESS_SET: '§b§lPvPCore §8:: §fВы успешно изменили игровой режим на §a%mode%'
+GAMEMODE_SUCCESS_SET_ADMIN_MESSAGE: '§b§lPvPCore §8:: §fВы успешно изменили игровой режим §e%player% §rна §a%mode%'
+GAMEMODE_SUCCESS_SET_OTHER_MESSAGE: '§b§lPvPCore §8:: §fВаш игровой режим был изменен администратором §e%player% §rна §a%mode%'
 CLEAR_SUCCESS_RESET: '§b§lPvPCore §8:: §fВы были полностью очищены от вещей и эффектов!'
 DAY_SUCCESS_SET_TIME: '§b§lPvPCore §8:: §fВ мире §e%world% §fбыло установено §6дневное §fвремя суток'
 EXT_MESSAGE: '§b§lPvPCore §8:: §fВы §aуспешно §fпотушили себя!'
