@@ -5,5 +5,7 @@ ERROR: '§b§lPvPCore §8:: §cОшибка, сообщите об этом Ад
 # =======================
 #        Ранги
 # =======================
-GROUP_USAGE: '§b§lPvPCore §8:: §fИспользуйте - §b/group set <ник> <ранг>'
+GROUP_USAGE_GET: '§b§lPvPCore §8:: §fИспользуйте - §b/group get <ник>'
+GROUP_USAGE_SET: '§b§lPvPCore §8:: §fИспользуйте - §b/group set <ник> <группа>'
 GROUP_SUCCESS_SET: '§b§lPvPCore §8:: §fВы успешно установили группу %group% §fигроку §e%player%'
+GROUP_GET_SUCCESS: '§b§lPvPCore §8:: §fГруппа данного игрока - %group%'
